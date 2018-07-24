@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+.top{
+    font-family: cursive;
+    text-align: center;
+}
+.watch_container{
+    background-color: #1a1818;
+    border-color: #fdefa6;
+    border-radius: 13px;
+    border-width: 2px;
+    display: block
+}
+.watch_description{
+    background-color: #1a1818;
+    border-color: #fdefa6;
+    border-radius: 13px;
+    border-width: 2px;
+    
+}
